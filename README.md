@@ -1,0 +1,1 @@
+### Practicing JS, async/await, by building an Movies Info App. 
